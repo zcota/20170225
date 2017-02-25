@@ -6,22 +6,24 @@
 
 3. Download the [gapminder](https://raw.githubusercontent.com/upendrak/advance_R/master/data/gapminder.csv) dataset using your favorite linux commands into `data` subfolder
 
-4. Subset the gapminder dataset into two files (any 2 years per file) using `grep` and write them to those two files respectively.
+4. Create a function in Python that plots year on the x-axis and lifeExp on the y-axis for a particular country in Juypter notebook
 
-5. Create a function in Python that plots year on the x-axis and lifeExp on the y-axis for a particular country in Juypter notebook
+5. Commit all the files and folder, the data folder, and the Jupyter notebook
 
-6. Use that function on the two files as input
+6. Use `git` to push your changes to your remote repo on github
 
-7. Commit all the files and folder, the data folder (contains the original csv along with two subsetted files) along with Jupyter notebook
+7. Adjust the function to compare n contries provided as a list
 
-8. Use `git` to push your changes to your remote repo on github
+_Hint: unique is a common function to get the values of a list_
 
-# Captstone project - 2 (If time permits)
+## What are some interesting points in gdpPercap, lifeExp, and pop?
 
-1. Subset the gapminder dataset this time for three countries - `Uganda, USA and Canada`
+8. Which country and what year had the largest gdpPercap?
 
-2. Plot year vs GDP for those three countries: Write a python function and then use that function to plot for the three countries
+9. Which country and what year had the lowest lifeExp?
 
-3. Write your observations for those three plots. For example, has the GDP increased or decreased over the years for those three countries
+10. Which coutnry and what year had the greatest pop? Second largest Country?
 
-4. Version control these files too and push them into the same `capstone_2017` remote repo on github
+11. For the year 2007, calculate the mean, min, and max life expectancies for each continent.
+
+12. Make 2 histograms of global life expectancy. One with the default bin widths and one with narrower bin widths.
