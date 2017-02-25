@@ -30,6 +30,8 @@ _Hint: unique is a common function to get the values of a list_
 
 # Capstone Project 2 - Git Practice
 
+1. Review of basics and intro to additional commands: https://try.github.io/levels/1/challenges/1
+
 
 # Capstone Project 3 - Matlab to Python
 
