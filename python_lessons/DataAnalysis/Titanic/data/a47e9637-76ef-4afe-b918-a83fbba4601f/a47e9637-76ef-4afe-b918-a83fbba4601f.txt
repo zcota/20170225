@@ -1,0 +1,3 @@
+first_class = manifest[manifest["Pclass"] == 1]
+first_class.head()
+first_class.shape
