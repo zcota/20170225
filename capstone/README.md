@@ -1,4 +1,4 @@
-# Capstone project - 1
+# Capstone Project 1 - Data in Pandas
 
 1. Create a directory named `capstone_2017` and version control that directory using git
 
@@ -27,3 +27,17 @@ _Hint: unique is a common function to get the values of a list_
 11. For the year 2007, calculate the mean, min, and max life expectancies for each continent.
 
 12. Make 2 histograms of global life expectancy. One with the default bin widths and one with narrower bin widths.
+
+# Capstone Project 2 - Git Practice
+
+
+# Capstone Project 3 - Matlab to Python
+
+1. Convert the Matlab files in the MatlabFuncs folder to Python functions.
+Resources:
+    * https://docs.scipy.org/doc/numpy-dev/user/numpy-for-matlab-users.html
+    * https://cheatsheets.quantecon.org/
+
+# Capstone Project 4 - Image Processing
+
+1. This is an intermediate level task. You can read through and challenge yourself, we have left in the solutions.
