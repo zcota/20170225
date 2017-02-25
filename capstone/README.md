@@ -6,7 +6,7 @@
 
 3. Download the [gapminder](https://raw.githubusercontent.com/upendrak/advance_R/master/data/gapminder.csv) dataset using your favorite linux commands into `data` subfolder
 
-4. Create a function in Python that plots year on the x-axis and lifeExp on the y-axis for a particular country in Juypter notebook
+4. Create a function in Python that plots year on the x-axis and lifeExp on the y-axis for a particular country in a Juypter notebook
 
 5. Commit all the files and folder, the data folder, and the Jupyter notebook
 
@@ -22,7 +22,7 @@ _Hint: unique is a common function to get the values of a list_
 
 9. Which country and what year had the lowest lifeExp?
 
-10. Which coutnry and what year had the greatest pop? Second largest Country?
+10. Which country and what year had the greatest pop? Second largest Country?
 
 11. For the year 2007, calculate the mean, min, and max life expectancies for each continent.
 
